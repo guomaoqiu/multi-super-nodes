@@ -26,7 +26,7 @@ Tips: 由于在工作当中，多台服务器中运行了由Supervisor管理的�
 
 ### 后台截图
 * 登录界面
-![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenshots/login.png)
+![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenhosts/login.png)
 
 * 后台用户管理
 
