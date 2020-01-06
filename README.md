@@ -31,11 +31,10 @@ Tips: 由于在工作当中，多台服务器中运行了由Supervisor管理的�
 * 后台用户管理
 ![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenhosts/user-manager.png)
 
-* Supervisor节点添加
+* Supervisor节点及进程管理界面
+![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenhosts/super-page.png)
 
-* Supervisor节点管理
 
-* Supervisor节点操作
 
 ### 反馈交流
 如果在Demo体验过程中遇到什么问题可以在 github上提 [issues](https://github.com/guomaoqiu/multi-super-nodes/issues
