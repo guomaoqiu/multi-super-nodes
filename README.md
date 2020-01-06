@@ -29,6 +29,7 @@ Tips: 由于在工作当中，多台服务器中运行了由Supervisor管理的�
 ![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenhosts/login.png)
 
 * 后台用户管理
+![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenhosts/user-manager.png)
 
 * Supervisor节点添加
 
