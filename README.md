@@ -8,6 +8,7 @@
 
 Tips: 由于在工作当中，多台服务器中运行了由Supervisor管理的众多服务，比如服务的状态控制，日志查看，在出现问题的时候需要去文档中查找对应的服务所对应的服务在ssh到服务器上面操作，总得说起来弊端就是管理起来起来比较松散、在问题出现时不能第一时间处理，于是本人利用了Supervisor 的`XML-RPC API`这一特性开发了一个用于管理Supervisor节点管理的一个后台。
 
+![](https://github.com/guomaoqiu/multi-super-nodes/raw/master/screenhosts/info.png)
 
 ### 在线体验
 预览地址：[http://super.sctux.com](http://super.sctux.com)
